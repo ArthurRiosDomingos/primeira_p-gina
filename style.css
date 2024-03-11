@@ -1,0 +1,31 @@
+header{
+    background-color:red;
+    position: relative;
+    height: 400px;
+    padding: 20px;
+}
+main{
+    background-color: blanchedalmond;
+}
+footer{
+    background-color: blue;
+}
+header img{
+    width: 400px;
+}
+main img{
+    width: 500px;
+    padding: 50px;
+}
+.logo{
+    width: 400px;
+}
+.imagem{
+    width: 200px;
+    position: absolute;
+    top: -0px;
+}
+header h1{
+    margin-top: 200px;
+}
+    
